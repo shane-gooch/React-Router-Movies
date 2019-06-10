@@ -69,4 +69,9 @@ body {
 .home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
+  text-decoration: none
+}
+
+.movie-list{
+  text-decoration: none; 
 }
