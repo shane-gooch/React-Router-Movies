@@ -16,6 +16,10 @@ body {
   margin: 1rem auto;
 }
 
+.movie-card h2:hover{
+  text-decoration: underline; 
+}
+
 .movie-director {
   padding: 4px 0;
   font-size: 0.8rem;
@@ -69,4 +73,17 @@ body {
 .home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
+  text-decoration: none;
+  color: #2B2F3B;
+}
+
+.movieList{
+  text-decoration: none;
+  color: #2B2F3B;
+}
+
+
+.savedMovie{
+  text-decoration: none; 
+  color: #2B2F3B;
 }
